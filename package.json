@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "echo 'Starting application' && node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
