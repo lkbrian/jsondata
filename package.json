@@ -1,0 +1,25 @@
+{
+  "name": "jsondata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "start": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkbrian/jsondata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkbrian/jsondata/issues"
+  },
+  "homepage": "https://github.com/lkbrian/jsondata#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^1.0.0-alpha.21"
+  }
+}
